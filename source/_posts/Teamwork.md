@@ -8,7 +8,8 @@ tags:
 
 同学们记得填写如下文档哦~ 🥹
 
-- [【腾讯文档】小学期项目统计](https://docs.qq.com/sheet/DVm54b3hDVkNReVF2)
+- [【腾讯文档】小学期项目统计（高祥班）](https://docs.qq.com/sheet/DRnVtQUF5dWZYdUxh)
+- [【腾讯文档】小学期项目统计（申雪萍班）](https://docs.qq.com/sheet/DRkZ0RVBsZEhiS3NL)
 
 ## 一、选题与内容要求
 
