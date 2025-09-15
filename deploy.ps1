@@ -46,13 +46,17 @@ scp $archiveName ${hostConnection}:/tmp/$archiveName
 
 # Execute remote commands:
 Write-Host "Executing deploy commands"
-$commands= @(
-    "tar -xzf /tmp/$archiveName -C $deployPath --overwrite",
+
+# Get the parent directory of the deploy path using string manipulation
+$appPath = $deployPath.Substring(0, $deployPath.LastIndexOf('/'))
+
+$commands = @(
+    "cd $appPath",
+    " && tar -xzf /tmp/$archiveName --overwrite",
     " && rm /tmp/$archiveName",
-    " && cd $deployPath",
-    " && ./deploy.sh public tutorial"
+    " && bash ./deploy.sh public tutorial"
 )
-ssh $hostConnection $commands
+ssh $hostConnection ($commands -join '')
 
 # Delete archive
 Write-Host "Finishing up"
