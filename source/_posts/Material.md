@@ -9,11 +9,14 @@ tags:
 ### 高祥老师班
 
 - [Lecture1-intro](http://10.251.252.238/public/course/2/Lecture1-intro_%E9%AB%98%E7%8F%AD.pdf)
+- [Lecture2-封装](http://10.251.252.238/public/course/2/Lecture2-%E5%B0%81%E8%A3%85_%E9%AB%98%E7%8F%AD.pdf)
 
 ### 申雪萍老师班
 
 - [Lesson1](./sxp_ppt/Lesson1.pdf)
 - [认识 Java](./sxp_ppt/认识JAVA.pdf)
+- [Java程序的基本结构](./sxp_ppt/Java程序的基本结构.pdf)
+- [Lesson2](./sxp_ppt/Lesson2.pdf)
 
 **自学内容**
 
