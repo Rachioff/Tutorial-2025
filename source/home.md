@@ -38,7 +38,7 @@ tags:
 
 请将实验问答报告的文件夹压缩为 `学号-姓名-LabXX.zip`，详细内容可参考 [Lab 问答报告模板](/tutorial/Lab-Template)。
 
-📥 **下载实验报告模版文档**：[学号-姓名-Labx.docx](./assents/学号-姓名-Labx.docx)
+📥 **下载实验报告模版文档**：[实验报告模板.docx](./assents/学号-姓名-Labx.docx)
 
 !!! Error
 

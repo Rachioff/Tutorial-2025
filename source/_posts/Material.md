@@ -8,7 +8,10 @@ tags:
 
 ### 高祥老师班
 
-
+- [Lecture1-intro](./gx_ppt/Lecture1-intro.pdf)
+- [Lecture2-封装1](./gx_ppt/Lecture2-封装1.pptx)
+- [Lecture3-封装2](./gx_ppt/Lecture3-封装2.pdf)
+- [Lecture4-继承](./gx_ppt/Lecture4-继承.pptx)
 
 ### 申雪萍老师班
 
@@ -19,8 +22,3 @@ tags:
 - [Lesson3](./sxp_ppt/Lesson3.pdf)
 - [Lesson4_1](./sxp_ppt/Lesson4_1.pdf)
 - [Lesson4_2](./sxp_ppt/Lesson4_2.pdf)
-
-**自学内容**
-
-- [自学内容 1](http://10.251.252.238/public/course/2/%E8%87%AA%E5%AD%A6%E5%86%85%E5%AE%B9_1_%E7%94%B3%E7%8F%AD.pdf)
-- [Java 程序的基本结构](http://10.251.252.238/public/course/2/Java%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_%E8%87%AA%E5%AD%A6%E5%86%85%E5%AE%B9_%E7%94%B3%E7%8F%AD.pdf)
